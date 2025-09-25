@@ -1,6 +1,6 @@
 <!-- Banner Image (Upload your own banner and replace the link) -->
 <p align="center">
-  <img src="https://i.postimg.cc/tTXG7GQP/Gemini-Generated-Image-nhtb07nhtb07nhtb-1.png" alt="Banner" width="20%" />
+ 
 </p>
 <h1 align="center">Hi 👋, I'm Suraj Singh Rathaur</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
